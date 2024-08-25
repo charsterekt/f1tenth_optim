@@ -1,0 +1,17 @@
+algorithm: TD3Quant
+id_name: Cth
+map_name: aut
+max_speed: 8
+n: 1
+n_repeats: 2
+n_test_laps: 20
+n_waypoints: 10
+num_beams: 20
+path: Experiment_1/
+planner_type: AgentOff
+random_seed: 10
+run_name: AgentOff_TD3Quant_Game_aut_Cth_8_1_1
+set_n: 1
+start_n: 1
+state_vector: Game
+training_steps: 40000
