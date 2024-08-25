@@ -3,7 +3,7 @@
 ## Exploring Optimisation Techniques for End-to-End Autonomous Racing Pipelines to Approach Perception-Planning-Control Pipeline Performance
 
 ### Details:
-* Author: Dhruv Rajesh Krishnamachari
+* Author: Dhruv R.K.
 *  Student ID: 230108224
 *  MSc Advanced Computer Science, Newcastle University
 
