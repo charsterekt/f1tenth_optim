@@ -1,0 +1,37 @@
+cloudpickle==1.6.0
+contourpy==1.2.1
+cycler==0.12.1
+-e git+https://github.com/f1tenth/f1tenth_gym.git@cd56335eda43ff4e401331c461877227474a3ed4#egg=f110_gym
+-e git+https://github.com/BDEvan5/f1tenth_drl.git@43074138e61679201c7652bb6ae647e01d11b511#egg=f1tenth_drl
+filelock==3.15.4
+fonttools==4.53.1
+fsspec==2024.6.1
+future==1.0.0
+gym==0.19.0
+imageio==2.34.2
+Jinja2==3.1.4
+kiwisolver==1.4.5
+lazy_loader==0.4
+llvmlite==0.43.0
+MarkupSafe==2.1.5
+matplotlib==3.9.1
+mpmath==1.3.0
+networkx==3.3
+numba==0.60.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+packaging==24.1
+pillow==10.4.0
+pyglet==1.5.20
+PyOpenGL==3.1.7
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+PyYAML==6.0.1
+scikit-image==0.24.0
+scipy==1.11.4
+shapely==2.0.5
+six==1.16.0
+sympy==1.13.0
+tifffile==2024.7.2
+torch==2.3.1
+typing_extensions==4.12.2
