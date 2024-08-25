@@ -1,3 +1,0 @@
-Put your models here, mine are stored and downloaded from Drive.
-
-Processed datasets such as X_train, X_val, y_train, y_val for use in root/model_eval files are also from Drive.
